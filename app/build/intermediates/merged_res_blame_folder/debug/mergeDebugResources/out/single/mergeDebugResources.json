@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.hackmate.app-debug-5:/drawable_btn_google_signin.xml.flat",
+        "source": "com.hackmate.app-main-7:/drawable/btn_google_signin.xml"
+    },
+    {
+        "merged": "com.hackmate.app-debug-5:/drawable_ic_team_member.xml.flat",
+        "source": "com.hackmate.app-main-7:/drawable/ic_team_member.xml"
+    },
+    {
+        "merged": "com.hackmate.app-debug-5:/layout_activity_login.xml.flat",
+        "source": "com.hackmate.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.hackmate.app-debug-5:/drawable_dot_indicator_inactive.xml.flat",
+        "source": "com.hackmate.app-main-7:/drawable/dot_indicator_inactive.xml"
+    },
+    {
+        "merged": "com.hackmate.app-debug-5:/drawable_ic_hackmate_logo.xml.flat",
+        "source": "com.hackmate.app-main-7:/drawable/ic_hackmate_logo.xml"
+    },
+    {
+        "merged": "com.hackmate.app-debug-5:/drawable_img_1.png.flat",
+        "source": "com.hackmate.app-main-7:/drawable/img_1.png"
+    },
+    {
+        "merged": "com.hackmate.app-debug-5:/drawable_dot_indicator_active.xml.flat",
+        "source": "com.hackmate.app-main-7:/drawable/dot_indicator_active.xml"
+    },
+    {
+        "merged": "com.hackmate.app-debug-5:/drawable_ic_google.xml.flat",
+        "source": "com.hackmate.app-main-7:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.hackmate.app-debug-5:/layout_activity_main.xml.flat",
+        "source": "com.hackmate.app-main-7:/layout/activity_main.xml"
+    }
+]

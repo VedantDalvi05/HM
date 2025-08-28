@@ -1,0 +1,600 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\58d36f8095da4755f4f3f017d0fdbd03\transformed\viewbinding-8.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.tbuonomo:dotsindicator:4.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3fa8a2fcdba47694cc0df7b734bad106\transformed\dotsindicator-4.3-debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9b8d9b9fa36bfda86f94bbc87b56c1f\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\ecae4d8e2580ac4b3c1c8fca441a0270\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\2e38f8cac6ca542307a9b78633b754cb\transformed\firebase-analytics-23.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\96231a6754e69414142a78025e4af202\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\013ff17e56b2a89e1f6bdc4a73da6b9e\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\6fe24c05eff40d712bd8bd7f819d3bbf\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3b568cf18bea14705cea6caf90c05956\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\vedant\.gradle\caches\8.11.1\transforms\b70ddc040f1373fab891e0ad40f20d39\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c3a3f4e2b3657454b7067e7f72b17ae8\transformed\play-services-fido-20.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\cab9ef2a1bf8f14d5ab9e186e44baab5\transformed\play-services-measurement-sdk-23.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e1cf88dc91848cd8a4ab8c77860d6347\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\807aa8aa9ccc2a430b2799019eefd3ad\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c0c1ba919114d2d6afbea9aed4baec36\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\474952dba78ef9c16118b9d85189c3bd\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8fce6d868a83abf86a3938408bb18259\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\7aa9583c6504320d6956d90703010c14\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\332d951ed0625fccea751f6c98f29838\transformed\loader-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\6f1358b1f1e9d1f446aa10b8143e2403\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\1f29572fdb22986d066eb57a3806ce59\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9832d24f7cfd5a2812f06068433b394a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\7f8f2e772ff944dbe3719fa3f6775bfe\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\109a5d312233cf554c98bc0a4a38c15d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\b8ba62506de8b3a34c18ccf2fd8b19f7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\de68eced1b596e00f9fa21692ed8d180\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c931908677a8af5b9ef51db61a1e0b5d\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\50dc5d0e5704fc2fa75e85688a7e8ded\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\da9fcd6328cf18673347d169691ef05d\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c64e3a3cdcf03935738244b7d0877438\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\540d31781d6393881f9f3d4a28ec8771\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\2497d7dd8c5c9ec15b13f6c3c969ea56\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\cd2d9e9650692a53a7dede84216fb1e3\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0561d2f20a4b3b1acc000d8284dfe379\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0e1f8c9abbd86ba9d3a5819f9e819d67\transformed\datastore-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0fb7d155b5dae250aac776b24a09e9b9\transformed\datastore-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8e6614baf8ef442482149d97b1213c52\transformed\datastore-preferences-release\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\08916087a1aa947fb3d81d92bef1af9c\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9a7fcb62cb213328e7b97b66719f59f5\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\1c2603173c50b557f85b3af8533cd119\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9696e4792ec035eda30f22edc80b3b41\transformed\play-services-measurement-base-23.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3eef99dc986cf64156ec385f81544cf2\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\396329778bb254a68fbac0ac13659a5e\transformed\play-services-basement-18.5.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\vedant\.gradle\caches\8.11.1\transforms\489d24051502ac459a47962664e63157\transformed\fragment-1.5.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\151d76e0f0f0d2543727ada6a2cc8039\transformed\activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d2187788962a1e1d267cdad66f4909a5\transformed\core-ktx-1.17.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e828ca0029579119b8e96f7d4e00b1c8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\db9f56abc984fa391ca71ace2e814f88\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\45d419f1175cb758d8a0d0ed1ebe1ee9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\667952500d9e6fe5b8b9bc88e9eaa575\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\93d784bb4587659a53a020f320fb23d4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\51298897fa347b15bfe5a4a3db84cb17\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\a3230e9a5834c52c66a641af504cbea3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3aa804dd8a74f8040fe314a57c531ac6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\529ee737f0440080128db18252ae26ba\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\ab4670545eaa2e3e3c99d54b5740e0f4\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8e180e72f01c9fd56835478efdd753d1\transformed\firebase-components-19.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\18db9433b0fdaf7a480dcd2057af3528\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8858ad959332d6d9a12f4424b4f4edcd\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:7:5-30:19
+INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:7:5-30:19
+MERGED from [com.tbuonomo:dotsindicator:4.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3fa8a2fcdba47694cc0df7b734bad106\transformed\dotsindicator-4.3-debug\AndroidManifest.xml:9:5-47
+MERGED from [com.tbuonomo:dotsindicator:4.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3fa8a2fcdba47694cc0df7b734bad106\transformed\dotsindicator-4.3-debug\AndroidManifest.xml:9:5-47
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9b8d9b9fa36bfda86f94bbc87b56c1f\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9b8d9b9fa36bfda86f94bbc87b56c1f\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\2e38f8cac6ca542307a9b78633b754cb\transformed\firebase-analytics-23.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\2e38f8cac6ca542307a9b78633b754cb\transformed\firebase-analytics-23.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:22:5-38:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\96231a6754e69414142a78025e4af202\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\96231a6754e69414142a78025e4af202\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c3a3f4e2b3657454b7067e7f72b17ae8\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c3a3f4e2b3657454b7067e7f72b17ae8\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\cab9ef2a1bf8f14d5ab9e186e44baab5\transformed\play-services-measurement-sdk-23.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\cab9ef2a1bf8f14d5ab9e186e44baab5\transformed\play-services-measurement-sdk-23.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e1cf88dc91848cd8a4ab8c77860d6347\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e1cf88dc91848cd8a4ab8c77860d6347\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8fce6d868a83abf86a3938408bb18259\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8fce6d868a83abf86a3938408bb18259\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\50dc5d0e5704fc2fa75e85688a7e8ded\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\50dc5d0e5704fc2fa75e85688a7e8ded\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0561d2f20a4b3b1acc000d8284dfe379\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0561d2f20a4b3b1acc000d8284dfe379\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9a7fcb62cb213328e7b97b66719f59f5\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9a7fcb62cb213328e7b97b66719f59f5\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\1c2603173c50b557f85b3af8533cd119\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\1c2603173c50b557f85b3af8533cd119\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9696e4792ec035eda30f22edc80b3b41\transformed\play-services-measurement-base-23.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9696e4792ec035eda30f22edc80b3b41\transformed\play-services-measurement-base-23.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3eef99dc986cf64156ec385f81544cf2\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3eef99dc986cf64156ec385f81544cf2\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\396329778bb254a68fbac0ac13659a5e\transformed\play-services-basement-18.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\396329778bb254a68fbac0ac13659a5e\transformed\play-services-basement-18.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\45d419f1175cb758d8a0d0ed1ebe1ee9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\45d419f1175cb758d8a0d0ed1ebe1ee9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\51298897fa347b15bfe5a4a3db84cb17\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\51298897fa347b15bfe5a4a3db84cb17\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:11:9-44
+	tools:targetApi
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:9:9-39
+	android:allowBackup
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:13:9-46
+activity#com.hackmate.LoginActivity
+ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:19:13-62
+	android:name
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:17:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.hackmate.MainActivity
+ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:26:9-29:65
+	android:exported
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:28:13-37
+	android:theme
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:29:13-62
+	android:name
+		ADDED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml:27:13-41
+uses-sdk
+INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml
+INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\58d36f8095da4755f4f3f017d0fdbd03\transformed\viewbinding-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\58d36f8095da4755f4f3f017d0fdbd03\transformed\viewbinding-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [com.tbuonomo:dotsindicator:4.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3fa8a2fcdba47694cc0df7b734bad106\transformed\dotsindicator-4.3-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tbuonomo:dotsindicator:4.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3fa8a2fcdba47694cc0df7b734bad106\transformed\dotsindicator-4.3-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9b8d9b9fa36bfda86f94bbc87b56c1f\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9b8d9b9fa36bfda86f94bbc87b56c1f\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\ecae4d8e2580ac4b3c1c8fca441a0270\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\ecae4d8e2580ac4b3c1c8fca441a0270\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\2e38f8cac6ca542307a9b78633b754cb\transformed\firebase-analytics-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\2e38f8cac6ca542307a9b78633b754cb\transformed\firebase-analytics-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\96231a6754e69414142a78025e4af202\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\96231a6754e69414142a78025e4af202\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\013ff17e56b2a89e1f6bdc4a73da6b9e\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\013ff17e56b2a89e1f6bdc4a73da6b9e\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\6fe24c05eff40d712bd8bd7f819d3bbf\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\6fe24c05eff40d712bd8bd7f819d3bbf\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3b568cf18bea14705cea6caf90c05956\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3b568cf18bea14705cea6caf90c05956\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\vedant\.gradle\caches\8.11.1\transforms\b70ddc040f1373fab891e0ad40f20d39\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\vedant\.gradle\caches\8.11.1\transforms\b70ddc040f1373fab891e0ad40f20d39\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c3a3f4e2b3657454b7067e7f72b17ae8\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c3a3f4e2b3657454b7067e7f72b17ae8\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\cab9ef2a1bf8f14d5ab9e186e44baab5\transformed\play-services-measurement-sdk-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\cab9ef2a1bf8f14d5ab9e186e44baab5\transformed\play-services-measurement-sdk-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e1cf88dc91848cd8a4ab8c77860d6347\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e1cf88dc91848cd8a4ab8c77860d6347\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\807aa8aa9ccc2a430b2799019eefd3ad\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\807aa8aa9ccc2a430b2799019eefd3ad\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c0c1ba919114d2d6afbea9aed4baec36\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c0c1ba919114d2d6afbea9aed4baec36\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\474952dba78ef9c16118b9d85189c3bd\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\474952dba78ef9c16118b9d85189c3bd\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8fce6d868a83abf86a3938408bb18259\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8fce6d868a83abf86a3938408bb18259\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\7aa9583c6504320d6956d90703010c14\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\7aa9583c6504320d6956d90703010c14\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\332d951ed0625fccea751f6c98f29838\transformed\loader-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\332d951ed0625fccea751f6c98f29838\transformed\loader-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\6f1358b1f1e9d1f446aa10b8143e2403\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\6f1358b1f1e9d1f446aa10b8143e2403\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\1f29572fdb22986d066eb57a3806ce59\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\1f29572fdb22986d066eb57a3806ce59\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9832d24f7cfd5a2812f06068433b394a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9832d24f7cfd5a2812f06068433b394a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\7f8f2e772ff944dbe3719fa3f6775bfe\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\7f8f2e772ff944dbe3719fa3f6775bfe\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\109a5d312233cf554c98bc0a4a38c15d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\109a5d312233cf554c98bc0a4a38c15d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\b8ba62506de8b3a34c18ccf2fd8b19f7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\b8ba62506de8b3a34c18ccf2fd8b19f7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\de68eced1b596e00f9fa21692ed8d180\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\de68eced1b596e00f9fa21692ed8d180\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c931908677a8af5b9ef51db61a1e0b5d\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c931908677a8af5b9ef51db61a1e0b5d\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\50dc5d0e5704fc2fa75e85688a7e8ded\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\50dc5d0e5704fc2fa75e85688a7e8ded\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\da9fcd6328cf18673347d169691ef05d\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\da9fcd6328cf18673347d169691ef05d\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c64e3a3cdcf03935738244b7d0877438\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\c64e3a3cdcf03935738244b7d0877438\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\540d31781d6393881f9f3d4a28ec8771\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\540d31781d6393881f9f3d4a28ec8771\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\2497d7dd8c5c9ec15b13f6c3c969ea56\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\2497d7dd8c5c9ec15b13f6c3c969ea56\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\cd2d9e9650692a53a7dede84216fb1e3\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\cd2d9e9650692a53a7dede84216fb1e3\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0561d2f20a4b3b1acc000d8284dfe379\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0561d2f20a4b3b1acc000d8284dfe379\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0e1f8c9abbd86ba9d3a5819f9e819d67\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0e1f8c9abbd86ba9d3a5819f9e819d67\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0fb7d155b5dae250aac776b24a09e9b9\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0fb7d155b5dae250aac776b24a09e9b9\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8e6614baf8ef442482149d97b1213c52\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8e6614baf8ef442482149d97b1213c52\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\08916087a1aa947fb3d81d92bef1af9c\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\08916087a1aa947fb3d81d92bef1af9c\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9a7fcb62cb213328e7b97b66719f59f5\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9a7fcb62cb213328e7b97b66719f59f5\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\1c2603173c50b557f85b3af8533cd119\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\1c2603173c50b557f85b3af8533cd119\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9696e4792ec035eda30f22edc80b3b41\transformed\play-services-measurement-base-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\9696e4792ec035eda30f22edc80b3b41\transformed\play-services-measurement-base-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3eef99dc986cf64156ec385f81544cf2\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3eef99dc986cf64156ec385f81544cf2\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\396329778bb254a68fbac0ac13659a5e\transformed\play-services-basement-18.5.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\396329778bb254a68fbac0ac13659a5e\transformed\play-services-basement-18.5.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\vedant\.gradle\caches\8.11.1\transforms\489d24051502ac459a47962664e63157\transformed\fragment-1.5.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\vedant\.gradle\caches\8.11.1\transforms\489d24051502ac459a47962664e63157\transformed\fragment-1.5.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\151d76e0f0f0d2543727ada6a2cc8039\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\151d76e0f0f0d2543727ada6a2cc8039\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d2187788962a1e1d267cdad66f4909a5\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d2187788962a1e1d267cdad66f4909a5\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e828ca0029579119b8e96f7d4e00b1c8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e828ca0029579119b8e96f7d4e00b1c8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\db9f56abc984fa391ca71ace2e814f88\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\db9f56abc984fa391ca71ace2e814f88\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\45d419f1175cb758d8a0d0ed1ebe1ee9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\45d419f1175cb758d8a0d0ed1ebe1ee9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\667952500d9e6fe5b8b9bc88e9eaa575\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\667952500d9e6fe5b8b9bc88e9eaa575\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\93d784bb4587659a53a020f320fb23d4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\93d784bb4587659a53a020f320fb23d4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\51298897fa347b15bfe5a4a3db84cb17\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\51298897fa347b15bfe5a4a3db84cb17\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\a3230e9a5834c52c66a641af504cbea3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\a3230e9a5834c52c66a641af504cbea3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3aa804dd8a74f8040fe314a57c531ac6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3aa804dd8a74f8040fe314a57c531ac6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\529ee737f0440080128db18252ae26ba\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\529ee737f0440080128db18252ae26ba\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\ab4670545eaa2e3e3c99d54b5740e0f4\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\ab4670545eaa2e3e3c99d54b5740e0f4\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8e180e72f01c9fd56835478efdd753d1\transformed\firebase-components-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8e180e72f01c9fd56835478efdd753d1\transformed\firebase-components-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\18db9433b0fdaf7a480dcd2057af3528\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\18db9433b0fdaf7a480dcd2057af3528\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8858ad959332d6d9a12f4424b4f4edcd\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\8858ad959332d6d9a12f4424b4f4edcd\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\HackMate_2\HM\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\3e26ddaeabc32635c65059f1a9a950a8\transformed\play-services-auth-21.4.0\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\178d893ada40b77ed76a641f305a3570\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\1c2603173c50b557f85b3af8533cd119\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\1c2603173c50b557f85b3af8533cd119\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\25019ce9e40b524cef742d9d4aafd9a0\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:27:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e1cf88dc91848cd8a4ab8c77860d6347\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e1cf88dc91848cd8a4ab8c77860d6347\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e1cf88dc91848cd8a4ab8c77860d6347\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e1cf88dc91848cd8a4ab8c77860d6347\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\d84c1051ff055335856b569980f45b83\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:27:22-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:31:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\825a728d35498b6ff1ac555297117c8e\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:34:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\17992985ba292e9c4976f012cd522917\transformed\firebase-installations-19.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\f5328c6ff6b896edc2421d053b3e2b21\transformed\firebase-common-22.0.0\AndroidManifest.xml:36:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\50dc5d0e5704fc2fa75e85688a7e8ded\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\50dc5d0e5704fc2fa75e85688a7e8ded\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\45d419f1175cb758d8a0d0ed1ebe1ee9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vedant\.gradle\caches\8.11.1\transforms\45d419f1175cb758d8a0d0ed1ebe1ee9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\888b984278aaa6cb4fc94452773e589f\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+permission#com.hackmate.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+uses-permission#com.hackmate.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\59c8eae626712c2e7c08272e9e7bbb70\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\50dc5d0e5704fc2fa75e85688a7e8ded\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\50dc5d0e5704fc2fa75e85688a7e8ded\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\vedant\.gradle\caches\8.11.1\transforms\50dc5d0e5704fc2fa75e85688a7e8ded\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0561d2f20a4b3b1acc000d8284dfe379\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0561d2f20a4b3b1acc000d8284dfe379\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\vedant\.gradle\caches\8.11.1\transforms\0561d2f20a4b3b1acc000d8284dfe379\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\396329778bb254a68fbac0ac13659a5e\transformed\play-services-basement-18.5.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\396329778bb254a68fbac0ac13659a5e\transformed\play-services-basement-18.5.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\396329778bb254a68fbac0ac13659a5e\transformed\play-services-basement-18.5.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\vedant\.gradle\caches\8.11.1\transforms\e9d4cbc15d4364bfd27a6352dd81d7c9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

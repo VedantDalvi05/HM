@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background_color">#121212</color>
+    <color name="black_overlay">#80000000</color>
+    <color name="button_google_bg">#00FF88</color>
+    <color name="button_google_border">#00E077</color>
+    <color name="button_google_text">#000000</color>
+    <color name="card_background">#2A2A2A</color>
+    <color name="card_background_light">#333333</color>
+    <color name="dark_background">#121212</color>
+    <color name="darker_background">#0A0A0A</color>
+    <color name="divider_color">#444444</color>
+    <color name="error_color">#FF5555</color>
+    <color name="input_background">#404040</color>
+    <color name="input_stroke">#555555</color>
+    <color name="input_stroke_focused">#00FF88</color>
+    <color name="input_text">#FFFFFF</color>
+    <color name="primary_color">#00FF88</color>
+    <color name="primary_dark">#00E077</color>
+    <color name="primary_light">#33FF99</color>
+    <color name="ripple_color">#1A00FF88</color>
+    <color name="secondary_color">#FF6B6B</color>
+    <color name="secondary_dark">#E55555</color>
+    <color name="secondary_light">#FF8A8A</color>
+    <color name="success_color">#00FF88</color>
+    <color name="surface_color">#1E1E1E</color>
+    <color name="text_hint">#808080</color>
+    <color name="text_on_primary">#000000</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="transparent">#00000000</color>
+    <color name="warning_color">#FFB84D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_90">#E6FFFFFF</color>
+    <color name="white_95">#F2FFFFFF</color>
+    <string name="app_logo_description">HackMate Logo</string>
+    <string name="app_name">HackMate</string>
+    <string name="app_subtitle">Your all-in-one hackathon companion</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="default_web_client_id" translatable="false">YOUR_WEB_CLIENT_ID_HERE</string>
+    <string name="email_hint">Email</string>
+    <string name="firebase_database_url" translatable="false">https://YOUR_PROJECT_ID-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">YOUR_PROJECT_NUMBER</string>
+    <string name="google_api_key" translatable="false">YOUR_API_KEY</string>
+    <string name="google_app_id" translatable="false">YOUR_MOBILE_SDK_APP_ID</string>
+    <string name="google_crash_reporting_api_key" translatable="false">YOUR_API_KEY</string>
+    <string name="google_icon">Google</string>
+    <string name="google_storage_bucket" translatable="false">YOUR_PROJECT_ID.appspot.com</string>
+    <string name="hackathon_team_description">Find your perfect hackathon team &amp; connect with like-minded innovators in seconds.</string>
+    <string name="illustration_description">Team collaboration illustration</string>
+    <string name="password_hint">Password</string>
+    <string name="project_id" translatable="false">YOUR_PROJECT_ID</string>
+    <string name="sign_in">SIGN IN</string>
+    <style name="Theme.HackMate" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">@color/dark_background</item>
+        <item name="android:navigationBarColor">@color/dark_background</item>
+        
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="o_mr1">false</item>
+    </style>
+    <style name="Theme.HackMate.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

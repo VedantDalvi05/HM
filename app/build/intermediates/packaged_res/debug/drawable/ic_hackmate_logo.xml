@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Outer Circle -->
+    <path
+        android:pathData="M60,60m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.1" />
+    
+    <!-- Inner Circle -->
+    <path
+        android:pathData="M60,60m-35,0a35,35 0,1 1,70 0a35,35 0,1 1,-70 0"
+        android:fillColor="@color/primary_color"
+        android:fillAlpha="0.3" />
+    
+    <!-- Code Symbol -->
+    <path
+        android:pathData="M45,45L35,60L45,75M75,45L85,60L75,75"
+        android:strokeColor="@color/primary_color"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent" />
+    
+    <!-- Center Slash -->
+    <path
+        android:pathData="M55,45L65,75"
+        android:strokeColor="@color/primary_color"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent" />
+        
+</vector>

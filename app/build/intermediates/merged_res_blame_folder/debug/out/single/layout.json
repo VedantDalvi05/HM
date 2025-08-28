@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.hackmate.app-mergeDebugResources-4:/layout/activity_login.xml",
+        "source": "com.hackmate.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.hackmate.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.hackmate.app-main-7:/layout/activity_main.xml"
+    }
+]
