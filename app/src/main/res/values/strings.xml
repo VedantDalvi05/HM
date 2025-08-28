@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HackMate</string>
+    
+    <!-- Login Screen Strings -->
+    <string name="app_subtitle">Your all-in-one hackathon companion</string>
+    <string name="hackathon_team_description">Find your perfect hackathon team &amp; connect with like-minded innovators in seconds.</string>
+    <string name="app_logo_description">HackMate Logo</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    
+    <!-- Content Descriptions -->
+    <string name="illustration_description">Team collaboration illustration</string>
+    <string name="google_icon">Google</string>
+    
+    <!-- Firebase Google Sign-In Web Client ID -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
+    
+</resources>

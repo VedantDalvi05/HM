@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949062629662",
+    "project_id": "hackmate-1524",
+    "storage_bucket": "hackmate-1524.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949062629662:android:5005b958fba02e9a88b10f",
+        "android_client_info": {
+          "package_name": "com.hackmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949062629662-d713vphli29dl5t78bn9l1gvm4fpj5pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackmate",
+            "certificate_hash": "40f7667055a8018c8eda8b65bed3c9ce18685f55"
+          }
+        },
+        {
+          "client_id": "949062629662-kc3a51ehngor1iephh6e3ekj9gntqplf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQXaWPDZKWLKbEgQzJkQNO_47alhToPGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949062629662-kc3a51ehngor1iephh6e3ekj9gntqplf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
